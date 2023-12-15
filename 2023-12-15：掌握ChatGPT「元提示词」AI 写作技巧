@@ -2,6 +2,15 @@
 
 https://aclanthology.org/2022.acl-short.94.pdf
 
+### 论文名称
+
+《ARecipeForArbitraryTextStyleTransferwithLargeLanguageModels》
+《大型语言模型实现任意文体风格转换的方法》
+
+### 论文摘要
+本研究探讨了利用大型语言模型（Large Language Models, LMs）实现零样本文本风格转换（Zero-shot Text Style Transfer）。我们提出了一种称为“增强零样本学习”的提示方法（Prompting Method），该方法将文本风格转换框架化为句子重写任务，并且仅需依赖自然语言提示而无需对模型进行微调或使用目标风格的示例。该方法简洁有效，在多种标准和非标准的文本风格转换任务上均显示出有希望的结果，如情绪转换以及“过度戏剧化处理”或“加入比喻”等自然语言转换任务。
+
+
 
 ### 元提示词的用法：
 
