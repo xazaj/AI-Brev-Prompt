@@ -1,0 +1,48 @@
+## 论文地址：
+
+https://aclanthology.org/2022.acl-short.94.pdf
+
+## 论文涉及的「元提示词」：
+
+### 用法：
+
+Rewrite the article to be more {xxx}.
+
+
+### 元提示词清单：
+
+"To be a little less angsty"
+"To be about mining"
+"To be better written"
+"To be less diabolical"
+"To be more absurd"
+"To be more adventurous"
+"To be more Dickensian"
+"To be more emotional"
+"To be more magical"
+"To be more melodramatic"
+"To be more philosophical"
+"To be more revolutionary"
+"To be more surprising"
+"To be more suspenseful"
+"To be more technical"
+"To be more whimsical"
+"To be warmer"
+"To fit better grammatically with the rest of the story"
+"To make more sense"
+"To be a word for a song"
+"To be about vegetables"
+"To be less descriptive"
+"To be more angry"
+"To be more cheerful"
+"To be more descriptive"
+"To be more fancy"
+"To be more flowery"
+"To be more interesting"
+"To be more joyful"
+"To be more scary"
+"To be more subtle"
+"To be more violent"
+"To use a more interesting word"
+"With a few words".
+
