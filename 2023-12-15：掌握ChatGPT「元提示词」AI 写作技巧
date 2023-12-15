@@ -2,14 +2,15 @@
 
 https://aclanthology.org/2022.acl-short.94.pdf
 
-## 论文涉及的「元提示词」：
 
-### 用法：
+### 元提示词的用法：
+
+需先准备一篇基础文章，使用下列提示词改写成特定风格：
 
 Rewrite the article to be more {xxx}.
 
 
-### 元提示词清单：
+### 从论文中提取的元提示词清单：
 
 "To be a little less angsty"
 "To be about mining"
